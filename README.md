@@ -1,7 +1,5 @@
 ### Hey there 👋
 
-#### I'm Harsh Shah, a jack of all trades and a master of many! From Data Engineering to Business Intelligence, I'm on a journey to excel it all in the DATA realm. With solid tech skills, business-centric mindset and a knack for leadership, I'm your go-to data professional!
-
 - 🚀 I recently advanced my expertise through a Masters degree in Information Systems (Computer Software Engineering) from Northeastern University. My focused trajectory propelled me towards my milestone: becoming a proficient data dynamo.
 
 - 🔍 My passion lies in a spectrum of disciplines within the data realm—Data Science, Data Analysis, Data Engineering, Business Intelligence, Generative AI, ML, and Product Management are among my keen interests and technical skillset. I'm committed to continuous learning, exploration, and growing in these fields.
