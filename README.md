@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+#### I'm Harsh Shah, a jack of all trades and a master of many! From Data Engineering to Business Intelligence, I'm on a journey to excel it all in the DATA realm. With solid tech skills, business-centric mindset and a knack for leadership, I'm your go-to data professional!
 <!--
 **harshshah2599/harshshah2599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
